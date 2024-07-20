@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haniagera.github.io/sitemap
+Sitemap: https://haniagera.github.io/app/sitemap
+Sitemap: https://haniagera.github.io/assets/sitemap
+Sitemap: https://haniagera.github.io/css/sitemap
+Sitemap: https://haniagera.github.io/includes/sitemap
+Sitemap: https://haniagera.github.io/item/sitemap
+Sitemap: https://haniagera.github.io/src/sitemap
